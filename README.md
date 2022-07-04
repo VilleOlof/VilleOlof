@@ -1,16 +1,39 @@
-### Hi there 👋
+```c#
+    public class About : Me {
+        //Information
+        readonly string Name = "VilleOlof";
+        readonly string Country = "Sweden";
+        
+        readonly DateTime ProgrammingSince = 
+            DateTime.Parse("2022-01-15");
+        
+        //Programming~
+        readonly string[] Languages = {
+          "C#",
+          "Java~"
+        };
+        
+        readonly string[] Tools = {
+            "Visual Studio 2022",
+            "Visual Studio Code",
+            "Github CoPilot",
+            "Unity",
+            "MC Fabric ToolChain"
+        };
 
-<!--
-**VilleOlof/VilleOlof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        readonly string[] Projects = {
+            "Marble It Up! Discord Bot",
+            "ROHC (MIU)",
+            "Minimal MIU Score Fetching API",
+            "Small Fabric Mods"
+        };
+        
+        readonly string[] Interests = {
+            "Programming",
+            "Speedrunning",
+            "Level Design"
+        };
+        //Last Updated On 2022-07-04
+    }
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
