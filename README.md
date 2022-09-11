@@ -9,23 +9,20 @@
         
         //Programming~
         readonly string[] Languages = {
-          "C#",
-          "Java~"
+          "C#"
         };
         
         readonly string[] Tools = {
             "Visual Studio 2022",
             "Visual Studio Code",
-            "Github CoPilot",
-            "Unity",
-            "MC Fabric ToolChain"
+            "Unity"
         };
 
         readonly string[] Projects = {
             "Marble It Up! Discord Bot",
             "ROHC (MIU)",
             "Minimal MIU Score Fetching API",
-            "Small Fabric Mods"
+            "MIU-API Library"
         };
         
         readonly string[] Interests = {
@@ -33,7 +30,7 @@
             "Speedrunning",
             "Level Design"
         };
-        //Last Updated On 2022-07-04
+        //Last Updated On 2022-09-11
     }
 ```
 
