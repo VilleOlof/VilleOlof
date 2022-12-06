@@ -10,11 +10,12 @@
         //Programming~
         readonly string[] Languages = {
             "C#",
-            "Javascript"
+            "Javascript",
+            "Lua"
         };
         
         readonly string[] Tools = {
-            "Visual Studio 2022",
+            "Visual Studio Code/2022",
             "Unity",
         };
 
@@ -22,6 +23,7 @@
             "Marble It Up! Discord Bot",
             "Minimal MIU Score Fetching API",
             "MIU-API Library"
+            "Davinci Resolve Scripts"
         };
 
         readonly string[] Interests = {
@@ -29,6 +31,6 @@
             "Speedrunning",
             "Level Design"
         };
-        //Last Updated On 2022-09-15
+        //Last Updated On 2022-12-06
     }
 ```
