@@ -22,14 +22,16 @@
         readonly string[] Projects = {
             "Marble It Up! Discord Bot",
             "Minimal MIU Score Fetching API",
-            "MIU-API Library"
-            "Davinci Resolve Scripts"
+            "MIU-API Library",
+            "Davinci Resolve Scripts",
+            "MIU Replay Viewer"
         };
 
         readonly string[] Interests = {
             "Programming",
             "Speedrunning",
-            "Level Design"
+            "Level Design",
+            "Video Editing"
         };
         //Last Updated On 2022-12-06
     }
