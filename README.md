@@ -11,6 +11,9 @@
         readonly string[] Languages = {
             "C#",
             "Javascript",
+            "Typescript",
+            "CSS",
+            "HTML",
             "Lua"
         };
         
