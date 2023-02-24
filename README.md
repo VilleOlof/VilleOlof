@@ -20,6 +20,10 @@
         readonly string[] Tools = {
             "Visual Studio Code/2022",
             "Unity",
+            "Tailwind",
+            "Svelte",
+            "Vite",
+            "Vitest
         };
 
         readonly string[] Projects = {
@@ -27,7 +31,9 @@
             "Minimal MIU Score Fetching API",
             "MIU-API Library",
             "Davinci Resolve Scripts",
-            "MIU Replay Viewer"
+            "MIU Replay Viewer",
+            "MIU Leaderboards",
+            "MIU API NPM Package"
         };
 
         readonly string[] Interests = {
