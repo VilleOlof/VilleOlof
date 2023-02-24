@@ -23,7 +23,7 @@
             "Tailwind",
             "Svelte",
             "Vite",
-            "Vitest
+            "Vitest"
         };
 
         readonly string[] Projects = {
