@@ -14,7 +14,8 @@
             "Typescript",
             "CSS",
             "HTML",
-            "Lua"
+            "Lua",
+            "Luau"
         };
         
         readonly string[] Tools = {
