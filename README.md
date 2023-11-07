@@ -1,52 +1,62 @@
-```c#
-    public class About : Me {
-        //Information
-        readonly string Name = "VilleOlof";
-        readonly string Country = "Sweden";
-        
-        readonly DateTime ProgrammingSince = 
-            DateTime.Parse("2022-01-15");
-        
-        //Programming~
-        readonly string[] Languages = {
-            "C#",
-            "Javascript",
-            "Typescript",
-            "CSS/SCSS",
-            "HTML",
-            "Lua",
-            "Luau"
-        };
-        
-        readonly string[] Tools = {
-            "Visual Studio Code/2022",
-            "Unity",
-            "Tailwind",
-            "Svelte",
-            "Vite",
-            "Vitest"
-        };
+# Haii, I'm Ville
 
-        readonly string[] Projects = {
-            "Marble It Up! Discord Bot",
-            "Minimal MIU Score Fetching API",
-            "MIU-API Library",
-            "Davinci Resolve Scripts",
-            "MIU Replay Viewer",
-            "MIU Leaderboards",
-            "MIU API NPM Package"
-        };
+I began learning programming on 2022-01-15 and been have a really fun time ever since.  
+Programming has always been a side-hobby kind-of thing, so i make stuff i find fun and sometimes silly.  
+I'd love to call myself a "Fullstack Developer" but you know, imposter syndrome!
 
-        readonly string[] Interests = {
-            "Programming",
-            "Speedrunning",
-            "Level Design",
-            "Video Editing"
-        };
-        //Last Updated On 2023-04-05
-    }
-```
+This is a "temporary" readme until i've overcome my 582 dumped uncompleted side-projects  
+and can finally make a clean website for my portfolio :)
 
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VilleOlof&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> What will today's adventure be?
+
+## Projects
+
+- **Pixel Display | [Visit the website here!](https://display.stamsite.nu)**  
+      A website similar to Reddit's r/place event.  
+      Custom-built to fit one of my content creator friends.  
+      Includes many features that integrate with Twitch, Discord,  
+      Statistics, Timelapses, Mod tools & Use of Websockets,    
+      And oh! Over 2000+ Registered users and over 1 Million pixels placed.  
+      Built With SvelteKit, Bun Backend & SQLite.  
+- **Toolbox | [Visit the repository here!](https://github.com/VilleOlof/Toolbox)**  
+      A Davinci Resolve 18 Workflow Integration that uses a modular drag-n-drop system  
+      where the user is always in-control of the layout and what modules exist within it.  
+      Users can create their own modules or use the existing built-in ones to ease their  
+      workflow in editing. Built-in APIs to easier sync and save data & settings.  
+      Built with Svelte + Electron.  
+- **90gQ Statistik | [Visit the website here!](https://stats.90gq.se/q)**  
+      A website built to view and easily search Minecraft Statistics on an entire server.  
+      View every single known statistic in the game, you can filter the "leaderboards",  
+      See other peoples profiles and graphs, timelines of their Advancements and more.  
+      Built with SvelteKit + SQLite
+- **My Little Guessy | [Visit the website here!](https://mylittleguessy.com)**  
+      A website similar to GeoGuessr but for the show My Little Pony.  
+      You get a random frame from any season, any episode at any timestamp-  
+      And if you guess the Season & Episode correct you gain a point.  
+      Multi-languag support, detailed options. Audio mode.  
+      Frames are generated on the fly on the server with FFmpeg and pre-cached on client.  
+      Also includes a fuzzy search system where you can type an episode title or description  
+      and automatically find the correct season and episode numbers.  
+      Built with SvelteKit, Bun Backend (w/ Elysia), SQLite for metadata, FFmpeg.
+
+  I've also done quite a few smaller projects,
+  - Complex Minecraft Datapacks
+  - Randomizer for the game 'Party Bots'
+  - Several Lua scripts to Davinci Resolve
+  - A Discord bot for the game Marble It Up where you could query the ingame leaderboards
+  - A Three.js based replay viewer for the game Marble It Up
+
+## Skills
+
+- JS / TS
+- Lua / Luau
+- CSS / SCSS / TailwindCSS
+- HTML
+- Svelte / SvelteKit
+- SQL (SQLite, PostgreSQL)
+- C#
+- McFunction
+- Git / Github
+- Docker
+
+  
