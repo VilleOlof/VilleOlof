@@ -48,15 +48,15 @@ and can finally make a clean website for my portfolio :)
 
 ## Skills
 
+- Rust
 - JS / TS
 - Lua / Luau
 - CSS / SCSS / TailwindCSS
 - HTML
 - Svelte / SvelteKit
-- SQL (SQLite, PostgreSQL)
+- SQL (SQLite, PostgreSQL, MySQL)
 - C#
 - McFunction
 - Git / Github
+- Electron / Tauri
 - Docker
-
-  
