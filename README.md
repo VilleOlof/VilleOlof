@@ -45,6 +45,9 @@ and can finally make a clean website for my portfolio :)
   - Several Lua scripts to Davinci Resolve
   - A Discord bot for the game Marble It Up where you could query the ingame leaderboards
   - A Three.js based replay viewer for the game Marble It Up
+  - A custom Tauri Rust based Dashboard running on a Raspberry Pi
+  - Multiple Streamdeck Plugins to interact with my other projects easily
+  - Custom & fast file service like Google Drive, Dropbox etc.
 
 ## Skills
 
@@ -57,6 +60,7 @@ and can finally make a clean website for my portfolio :)
 - SQL (SQLite, PostgreSQL, MySQL)
 - C#
 - McFunction
+- GDScript
 - Git / Github
 - Electron / Tauri
 - Docker
