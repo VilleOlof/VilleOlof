@@ -1,6 +1,6 @@
 # Haii, I'm Ville
 
-I began learning programming on 2022-01-15 and been have a really fun time ever since.  
+Been programming since 2022-01-15 and uh it's been fun.
 Programming has always been a side-hobby kind-of thing, so i make stuff i find fun and sometimes silly.  
 I'd love to call myself a "Fullstack Developer" but you know, imposter syndrome!
 
