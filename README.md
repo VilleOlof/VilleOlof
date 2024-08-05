@@ -1,6 +1,6 @@
 # Haii, I'm Ville
 
-Been programming since 2022-01-15 and uh it's been fun.
+Been programming since 2022-01-15 and uh it's been fun.  
 Programming has always been a side-hobby kind-of thing, so i make stuff i find fun and sometimes silly.  
 I'd love to call myself a "Fullstack Developer" but you know, imposter syndrome!
 
